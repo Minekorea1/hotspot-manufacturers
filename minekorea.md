@@ -18,9 +18,9 @@ Minekorea is currently in full swing in the web3.0 cryptocurrency mining busines
 
 * What is this product's model name or model number? 
 
-  **1. MINE HNT Miner(Basic)** 
+  **1. MINE HNT Miner(Basic), with 2GB RAM** 
 
-  **2. MINE HNT Miner(Pro)** 
+  **2. MINE HNT Miner(Pro), wtih 4GB RAM and LTE(optional)** 
 
 * Is this Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
 
@@ -61,7 +61,9 @@ Minekorea is currently in full swing in the web3.0 cryptocurrency mining busines
 
 * What is your approximate price point? (required)
 
-	**It is set at around $600, but it can be changed depending on the market situation.**
+	**Basic $550,
+	  Pro   $650,
+	  it can be changed depending on the market situation.**
 
 - What is your expected production and delivery timeline?
 
@@ -177,7 +179,7 @@ Evidence of a functioning prototype - photos, videos. Renderings are OK but phys
 | **Platform Configurations** |                                                              |
 | :---------------------- | :----------------------------------------------------------: |
 | Flash                   |                          32Gb eMMC                           |
-| RAM                     |             2Gb LPDDR4 / 4Gb LPDDR4 / 8Gb LPDDR4             |
+| RAM                     |             2Gb LPDDR4 / 4Gb LPDDR4               		 |
 | CPU                     | Broadcom BCM2711 quad-core Cortex-A72(ARM v8) 64-bit SoC @ 1.5GHz |
 | WI-FI                   |         2.4GHz, 5.0GHz IEEE 802.11 b/g/n/ac wireless         |
 | Bluetooth               |                      Bluetooth 5.0, BLE                      |
